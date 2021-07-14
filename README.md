@@ -1,4 +1,4 @@
-## [Live Preview](https://post-app-mf.netlify.app/)
+# [Live Preview](https://post-app-mf.netlify.app/)
 	
 ## Technologies
 Client
