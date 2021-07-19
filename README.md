@@ -24,7 +24,7 @@ npm install
 ```
 npm start
 ```
-## and
+and
 ```
 cd client
 ```
