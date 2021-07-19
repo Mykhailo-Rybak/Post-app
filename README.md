@@ -15,7 +15,19 @@ Server
 
 ## Setup
 To run this project, install it locally using npm:
-
+```
+cd server
+```
+```
+npm install
+```
+```
+npm start
+```
+#and
+```
+cd client
+```
 ```
 npm install
 ```
